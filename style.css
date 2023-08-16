@@ -1,0 +1,16 @@
+nav{
+    display:flex;
+}
+
+li{
+   display: inline-flex;
+   margin:20px;
+   font: size 20px;
+}
+body{
+    background-color: beige;
+    font-family: roboto;
+}
+img{
+    margin-right: 50%;
+}
